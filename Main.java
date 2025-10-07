@@ -1,4 +1,4 @@
-package UniversityERP;
+package edu;
 
 public class Main {
     
